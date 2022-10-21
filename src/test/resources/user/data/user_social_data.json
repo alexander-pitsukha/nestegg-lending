@@ -1,0 +1,33 @@
+{
+  "facebookId": "1246568229094904",
+  "facebookToken": "EAAymDpXXTSABAC7tPYBPgAw7IP7g6ZBx6swSYhPIWZCLqXYis1fZANuSEWULHaZCFnuxMTmVBvjr3IWHZAXBvwrImxBdcRIQdgfVlKoE1yEjqFKPKkpqDGaBIV6nEhD1S9R9WSxVHIXY5BZCNIla1koqzJlF72ZCVxoAGuZC5xoOJeq3E2XiYUNHD6vgbR3RzER5XiW3qOcVhhZB9QWGOkbZCx6ZCzFxsYewKYQsHa49lov3AZDZD",
+  "facebookData": {
+    "id": "100758818793592",
+    "email": null,
+    "lastName": "Shepardberg",
+    "firstName": "Helen"
+  },
+  "linkedinId": "BRy_8DRlgllb",
+  "linkedinToken": "AQX2Bk7GRgOnCOBzFR3NEf-2CgZzMwRVi_lF_kwAxiRRgKcu66ETsTeLLdmRLB0t_a5g2laFg9--WDfMJ3RVGfOc6NJiiUKPKXXOcUdfhH4UOmcxDZIJpUZo3aXqrPCqYmcDApjXJXCYiNhrOzi5hRQoDWaz6KD203DT_hofIZQMAD1H1ow_ROpt3Up7dqqS2lr4fiCEsyXW7FRvz5J8-GrjUbtDD7amA2crbPivudoCaouhiY8j8022bCWfTsowgWCCNgVHADJeBbqutsYBW1W8HEKbhAnGGcK6lzrbVqgJQFzhdpa042bmkPMpR4Fm6fiWaaKac2GZWCcTT1WQ0PDB4yJiDA",
+  "linkedData": {
+    "id": "BRy_8DRlgllb",
+    "lastName": "Sheparddfqetr",
+    "firstName": "Alexander"
+  },
+  "instagramId": "BRy_8DRldwqfdqwb",
+  "instagramToken": "qwertyuiop1234567890",
+  "instagramData": {
+    "id": "BRy_8DRldwqfdqwb",
+    "name": "Sheparddfqetr"
+  },
+  "vkontakteId": "1234567890",
+  "vkontakteToken": "EAAymDpXXTSABALrz7uvNUS5vwIjcBTT1A74S8mZAu6OdacKvrC1G5KJd7gJFZCdZC8z0jyv4tAkmFhcaiL5T3TKDtbZCxTZBBvggGPnoCHnZAKtuKMvWOMx7yUW6zDN6CdqA3NUL5k2yPhloGG1pGSLk1",
+  "vkontakteData": {
+    "id": "BRy_8DRlgllb",
+    "lastName": "Sheparddfqetr",
+    "firstName": "Alexander"
+  },
+  "user": {
+    "id": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1,
+  "nickname": "fgrfrhtdjf",
+  "deviceToken": "qwertyuiop1234567890",
+  "disabled": false,
+  "pushActive": true,
+  "automaticDebiting": false,
+  "avatarId": "wgtutyit7i",
+  "bankCards": [
+    {
+      "id": null,
+      "cardNumber": "5555666677778888",
+      "cvv": "888",
+      "expireDate": "11/22",
+      "cardholderName": "ALEXANDER ALEXANDER",
+      "isDefault": true
+    }
+  ],
+  "userSocialData": {
+    "facebookId": "124874521",
+    "linkedinId": "1235459878952",
+    "instagramId": "78458512552",
+    "vkontakteId": "12548951"
+  },
+  "roles": [
+    "USER"
+  ]
+}

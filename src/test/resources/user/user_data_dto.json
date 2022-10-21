@@ -1,0 +1,34 @@
+{
+  "id": 1,
+  "nickname": "fgrfrhtdjf",
+  "avatarId": "wgtutyit7i",
+  "userType": "BORROWER",
+  "likeCount": null,
+  "userLikes": null,
+  "userComments": [
+    {
+      "id": 1,
+      "comment": "qwertyui dfgjkl ghjkltyuio wgrehh",
+      "parentUserCommentId": null,
+      "userId": 1,
+      "userOwnerId": 2,
+      "userComments": []
+    },
+    {
+      "id": 2,
+      "comment": "gdrhtdh  grdhtdj wgrhetj",
+      "parentUserCommentId": null,
+      "userId": 1,
+      "userOwnerId": 2,
+      "userComments": []
+    },
+    {
+      "id": 3,
+      "comment": "451198 11619 8189489 91988",
+      "parentUserCommentId": null,
+      "userId": 1,
+      "userOwnerId": 2,
+      "userComments": []
+    }
+  ]
+}

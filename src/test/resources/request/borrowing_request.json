@@ -1,0 +1,13 @@
+{
+  "request": {
+    "sum": 10000,
+    "revenueInMouth": 10,
+    "termCount": 3,
+    "termType": "MONTH",
+    "termDate": "2022-11-01",
+    "user": {
+      "id": 1,
+      "nickname": "rgvrtdnnnfng"
+    }
+  }
+}

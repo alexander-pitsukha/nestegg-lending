@@ -1,0 +1,9 @@
+{
+  "isLike": false,
+  "user": {
+    "id": 1
+  },
+  "userOwner": {
+    "id": 2
+  }
+}

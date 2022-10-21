@@ -1,0 +1,17 @@
+[
+  {
+    "isLike": true,
+    "user": {
+      "id": 1
+    }
+  },
+  {
+    "isLike": false,
+    "user": {
+      "id": 1
+    },
+    "userOwner": {
+      "id": 2
+    }
+  }
+]

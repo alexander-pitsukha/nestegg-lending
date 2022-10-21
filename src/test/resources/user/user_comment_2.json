@@ -1,0 +1,25 @@
+{
+  "id": 1,
+  "comment": "qwertyui dfgjkl ghjkltyuio wgrehh",
+  "user": {
+    "id": 1
+  },
+  "userOwner": {
+    "id": 2
+  },
+  "userComments": [
+    {
+      "id": 2,
+      "comment": "11111111111111111111111",
+      "parentUserComment": {
+        "id": 1
+      },
+      "user": {
+        "id": 1
+      },
+      "userOwner": {
+        "id": 2
+      }
+    }
+  ]
+}

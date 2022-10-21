@@ -1,0 +1,10 @@
+{
+  "deviceToken": "EAAymDpXXTSABAK7EBLZCI8ouQCqFN72L1Yrdq5jaPA9scsPwR1pzH2EJSxOxtZAMgaRgi0Jf5W6UB8ZAR2PK5bYvFAQKZA5ruATzd5QPQZAzq743ESVLvpjiJZAWZA3C9rBBqso8zgkpGmyZBd9A6VPhpYjpGyXP0rvqEZBk2SrlaWKraZBul2jUiT5xxz6glc1lFJiyaHL5RJvQZDZD",
+  "phoneNumber": "+22222222222222",
+  "verifiedPhoneCode": "3333",
+  "disabled": false,
+  "pushActive": false,
+  "roles": [
+    "USER"
+  ]
+}

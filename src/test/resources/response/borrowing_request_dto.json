@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "sum": 1000,
+  "revenueInMouth": 5,
+  "termCount": 10,
+  "termType": "MONTH",
+  "termDate": "2022-11-01",
+  "requestType": "BORROWING",
+  "userId": 1,
+  "nickname": "qwertyuiop1234567890"
+}

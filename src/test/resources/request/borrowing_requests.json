@@ -1,0 +1,26 @@
+[
+  {
+    "request": {
+      "sum": 1000,
+      "revenueInMouth": 5,
+      "termCount": 10,
+      "termType": "MONTH",
+      "termDate": "2022-11-01",
+      "user": {
+        "id": 1
+      }
+    }
+  },
+  {
+    "request": {
+      "sum": 500,
+      "revenueInMouth": 5,
+      "termCount": 10,
+      "termType": "MONTH",
+      "termDate": "2022-11-01",
+      "user": {
+        "id": 2
+      }
+    }
+  }
+]

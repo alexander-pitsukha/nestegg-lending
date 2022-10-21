@@ -1,0 +1,24 @@
+{
+  "id": 1,
+  "nickname": "poher_mne_vse",
+  "deviceToken": "qwertyuiop1234567890",
+  "pushActive": true,
+  "automaticDebiting": true,
+  "avatarId": "qwsdfvgbhnjklp",
+  "bankCards": [
+    {
+      "cardNumber": "5555666677778888",
+      "cvv": "888",
+      "expireDate": "11/22",
+      "cardholderName": "ALEXANDER ALEXANDROV",
+      "isDefault": true
+    },
+    {
+      "cardNumber": "5555666699990000",
+      "cvv": "999",
+      "expireDate": "11/25",
+      "cardholderName": "ALEXANDER ALEXANDROV",
+      "isDefault": false
+    }
+  ]
+}
